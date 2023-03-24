@@ -231,7 +231,7 @@ public class mindiff_a_star {
 	        }
 	        for(i=0;i<fermeea.size();i++) {
 	    		System.out.println(fermeea.get(i).t1+"  "+fermeea.get(i).t2+" diff="+fermeea.get(i).min+"\n");
-		        }*/
+		    }*/
 	        
 	        }
 	    
