@@ -4,7 +4,7 @@ import java.util.*;
 
 public class mindiff_a_star {
    
-	public static class node {
+	public static class node { 
 	    private int min;
 	    private List<Integer> t1;
 	    private List<Integer> t2;
